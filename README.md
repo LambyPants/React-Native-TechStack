@@ -5,6 +5,5 @@ This is a React-Native application made to help practice my mastery of the skill
 <ul>
 <li>React Native </li>
 <li>React + Redux</li>
-<li></li>
 
 </ul>
